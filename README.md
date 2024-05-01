@@ -1,8 +1,11 @@
 # Movie-Correlation
-# About the dataset
+## About the dataset
 - https://www.kaggle.com/datasets/danielgrijalvas/movies?resource=download
 - Dataset containing information on movies from 1980 to 2020
 
-# About the Project
+## About the Project
 - Analyzed Movie Industry data to identify correlations using Python
 - Data Preprocessing:
+  - Removed missing values (NaN) by dropping corresponding rows.
+  - Converted data types: Floats to integers, and one column to strings.
+  - Corrected year column by extracting year from release dates and storing in a new column.
