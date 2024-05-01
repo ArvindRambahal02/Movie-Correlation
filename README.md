@@ -17,3 +17,7 @@
 
 
 ![Movie Budget Vs. Movie Gross Earnings](https://github.com/ArvindRambahal02/Movie-Correlation/blob/main/RegressionPlot_budget_gross.png)
+
+
+
+![Correlation matrix](https://github.com/ArvindRambahal02/Movie-Correlation/blob/main/Heatmap_numeric_features_movies.png)
