@@ -14,3 +14,6 @@
 - Data Visualization:
   - Utilized Seaborn to generate linear regression plots, demonstrating the impact of movie budget on gross earnings.
   - Created a correlation matrix heatmap using Seaborn and Matplotlib, visualizing the correlations between different variables.
+
+
+![Movie Budget Vs. Movie Gross Earnings](https://github.com/ArvindRambahal02/Movie-Correlation/blob/main/RegressionPlot_budget_gross.png)
